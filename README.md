@@ -79,7 +79,7 @@ This gives ChatGPT the ability to remember things and allow conversations instea
 
 ### OPENAI_API_KEY
 ```
-This is where you paste your openAI Secure Key. 
+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
 ```
 Save the Changes.
 
